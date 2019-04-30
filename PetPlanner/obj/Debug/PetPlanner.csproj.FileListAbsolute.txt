@@ -1,0 +1,10 @@
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.csprojAssemblyReference.cache
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.Form1.resources
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.Properties.Resources.resources
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.csproj.GenerateResource.cache
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.csproj.CoreCompileInputs.cache
+E:\Projects\PetPlanner\PetPlanner\bin\Debug\PetPlanner.exe.config
+E:\Projects\PetPlanner\PetPlanner\bin\Debug\PetPlanner.exe
+E:\Projects\PetPlanner\PetPlanner\bin\Debug\PetPlanner.pdb
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.exe
+E:\Projects\PetPlanner\PetPlanner\obj\Debug\PetPlanner.pdb
